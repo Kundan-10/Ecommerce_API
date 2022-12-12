@@ -1,5 +1,5 @@
-# Ecommerce_API
-# Online Shopping Application API 
+
+# Online Ecommerce  Shopping Application API 
 
  - I have developed this REST API for an Ecommarce Rest API. This API performs all the fundamental CRUD operations of any ecommarce Application platform with user validation at every step.
 - This project is developed by me Back-End Developer in 2 week
