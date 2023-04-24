@@ -8,11 +8,11 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.shopping</groupId>
-	<artifactId>ShoppingBazaar</artifactId>
+	<groupId>com.ecommerce</groupId>
+	<artifactId>ecommerceAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ShoppingBazaar</name>
-	<description>Shopping Bazaar System.</description>
+	<name>Ecommerce</name>
+	<description>ecommerce System.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
